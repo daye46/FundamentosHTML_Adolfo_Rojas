@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = https://github.com/daye46/FundamentosHTML_Adolfo_Rojas
+	fetch = +refs/*:refs/*
+	mirror = true
